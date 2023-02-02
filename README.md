@@ -1,18 +1,28 @@
 # ☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆
 **Hi there, I'm Kang!**
 
-### About Me:
+### About Me
 * Currently seeking Summer 2023 Co-op position
 * 2nd year CS student @ University of Toronto
 * Interested in Machine Learning (especially in Computer Vision & Audio Processing)
 * Prior experience in Deep Learning, Data Science, and Application Development
-* Perpetual student - always willing to learn at new skills and tech
+* Perpetual student - always willing to learn new skills and tech
 * ~Wannabe Linux User that is on Windows by choice~
 
 > **Always open to collaborate with others on projects!**
 
-### Send me a message here:
-[Email](mailto:chunkang.lu@mail.utoronto.ca) | [Linkedin](https://www.linkedin.com/in/chunkanglu/) | [Discord](discordapp.com/users/254645264751656961)
+### Skills & Technologies
+![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+
+### Send me a message here
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chunkanglu@gmail.com)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chunkanglu/)
+[![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](discordapp.com/users/254645264751656961)
 
 
 <!--
