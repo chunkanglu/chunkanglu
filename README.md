@@ -2,7 +2,7 @@
 **Hi there, I'm Kang!**
 
 ### About Me
-* Currently seeking Summer 2023 Co-op position
+* Summer 2023 Co-op position at Healthcare of Ontario Pension Plan
 * 2nd year CS student @ University of Toronto
 * Interested in Machine Learning (especially in Computer Vision & Audio Processing)
 * Prior experience in Deep Learning, Data Science, and Application Development
