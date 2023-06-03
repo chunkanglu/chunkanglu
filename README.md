@@ -7,7 +7,7 @@
 * Interested in Machine Learning (especially in Computer Vision & Audio Processing)
 * Prior experience in Deep Learning, Data Science, and Application Development
 * Perpetual student - always willing to learn new skills and tech
-* ~Wannabe Linux User that is on Windows by choice~
+* I don't use Arch btw
 
 > **Always open to collaborate with others on projects!**
 
