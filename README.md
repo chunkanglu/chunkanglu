@@ -2,7 +2,7 @@
 **Hi there, I'm Kang!**
 
 ### About Me
-* 3rd year CS student @ University of Toronto
+* Expected 2026 gradute CS student @ University of Toronto
 * Interested in Machine Learning (especially in Computer Vision & Audio Processing)
 * Prior experience in Deep Learning, Data Science, and Application Development
 * Perpetual student - always willing to learn new skills and tech
